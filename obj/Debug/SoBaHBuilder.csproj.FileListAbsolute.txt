@@ -1,0 +1,9 @@
+c:\users\anthony\documents\visual studio 2012\Projects\SoBaHBuilder\bin\Debug\SoBaHBuilder.exe.config
+C:\Users\Anthony\Documents\Visual Studio 2012\Projects\SoBaHBuilder\bin\Debug\SoBaHBuilder.exe
+C:\Users\Anthony\Documents\Visual Studio 2012\Projects\SoBaHBuilder\bin\Debug\SoBaHBuilder.pdb
+C:\Users\Anthony\Documents\Visual Studio 2012\Projects\SoBaHBuilder\obj\Debug\SoBaHBuilder.Form1.resources
+C:\Users\Anthony\Documents\Visual Studio 2012\Projects\SoBaHBuilder\obj\Debug\SoBaHBuilder.Properties.Resources.resources
+C:\Users\Anthony\Documents\Visual Studio 2012\Projects\SoBaHBuilder\obj\Debug\SoBaHBuilder.csproj.GenerateResource.Cache
+C:\Users\Anthony\Documents\Visual Studio 2012\Projects\SoBaHBuilder\obj\Debug\SoBaHBuilder.exe
+C:\Users\Anthony\Documents\Visual Studio 2012\Projects\SoBaHBuilder\obj\Debug\SoBaHBuilder.pdb
+C:\Users\Anthony\Documents\Visual Studio 2012\Projects\SoBaHBuilder\obj\Debug\SoBaHBuilder.csprojResolveAssemblyReference.cache
